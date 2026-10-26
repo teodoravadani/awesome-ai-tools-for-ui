@@ -111,6 +111,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Logosystem](https://logosystem.co/?utm_source=awesome-ai-tools-for-ui) - Curated logo inspiration gallery with 1,200+ static and animated logos.
 - [Ditther](https://www.ditther.com/?utm_source=awesome-ai-tools-for-ui) - Free browser tool for dither, halftone, ASCII, pixel, and video effects.
 - [Book of Shapes](https://bookofshapes.com/?tag=flow&utm_source=awesome-ai-tools-for-ui) - Collection of minimal, generative, and customizable SVG patterns.
+- [qodesign-free](https://github.com/teodoravadani/qodesign-free?utm_source=awesome-ai-tools-for-ui) - MIT animated React components and dashboards (Tailwind CSS + Motion) with an AGENTS.md and Cursor rules, so coding agents install and wire them through the shadcn CLI.
 
 ## Resources
 
